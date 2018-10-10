@@ -1,0 +1,23 @@
+Comandos Básicos
+
+git init
+git add <file>
+git status
+git commit
+git push
+git pull
+git clone
+
+
+git add .(agregar todos los archivos)
+git commit -m "nombre del commit" (agregar un commit)
+git log(ver commits)
+gir branch(ver ramas)
+git branch xxx (agregar rama)
+git checkout (cambiar de ramas)
+
+REGISTRO DE CREDENCIALES
+- git config --global user.email "tuCorreo@correo.com"
+- git config --global user.name "tuNombreDeUsuario"?
+
+
